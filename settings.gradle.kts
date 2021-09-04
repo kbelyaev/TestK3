@@ -1,0 +1,3 @@
+
+rootProject.name = "TestK3"
+
